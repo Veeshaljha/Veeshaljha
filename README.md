@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Veeshaljha
-- 👀 I’m interested in Python Development
-- 🌱 I’m currently learning Python  
+- 👀 I’m interested in Java Development
+- 🌱 I’m currently learning Java
 - 📫 How to reach me ... Jhavishal3172@gmail.com
 
 <!---
